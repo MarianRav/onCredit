@@ -1,4 +1,4 @@
-import "../css/ClientsLayout.css";
+import "../css/clientsLayout.css";
 import searchLogo from "../assets/search.svg";
 import Navbar from "../generalComponents/Navbar";
 import ClientsTableInfo from "./ClientsTableInfo";
